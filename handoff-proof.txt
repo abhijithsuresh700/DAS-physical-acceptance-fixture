@@ -1,1 +1,2 @@
 fixture-created
+node-a-checkpoint-v2
